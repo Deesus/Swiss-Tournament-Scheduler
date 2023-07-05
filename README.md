@@ -1,11 +1,7 @@
 # Swiss-system Tournament Scheduler
 
-#### version 0.86
-
 ### Schedule rank-based tournament matchups:
 The **Swiss-system Scheduler** is a Python module that implements the [Swiss-system](https://en.wikipedia.org/wiki/Swiss-system_tournament) for **scheduling player pairing in each round in a game tournament**. The Swiss-system is non-elimination tournament format where all participants play multiple rounds of competition before the final rankings -- based on wins and opponent strength -- are determined. The module supports multiple simultaneous tournaments.
-
-**N.b.** This is an old project; I've uploaded it for archiving purposes. However, it should still work perfectly fine.
 
 ### Quickstart:
 1. Clone this repo, if you haven't already.
@@ -37,4 +33,3 @@ Swiss Tournament Planner/
 
 ### License:
 MIT License.
-
